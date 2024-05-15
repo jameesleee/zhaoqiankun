@@ -5,5 +5,6 @@ export function setupCounter(element) {
     element.innerHTML = `赵乾坤是 ${counter}`
   }
   element.addEventListener('click', () => setCounter(250))
+
   setCounter(0)
 }

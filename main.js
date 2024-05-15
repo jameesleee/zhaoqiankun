@@ -5,8 +5,8 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
-      <img src="/zhao.jpg" class="logo" alt="Vite logo" />
-      <img src="/sb.jpg" class="logo vanilla" alt="JavaScript logo" />
+      <img src="/vite.svg" class="logo" alt="Vite logo" />
+      <img src="/javascript.svg" class="logo vanilla" alt="JavaScript logo" />
     <h1>傻逼赵乾坤</h1>
     <div class="card">
       <button id="counter" type="button"></button>
